@@ -1,3 +1,6 @@
+# Know About README
+This repository gives you idea about what topics you can include in your README file of your Github Repository.
+
 Creating a comprehensive README.md file for a project is a great idea, as it helps others understand your project and how to work with it. Below is a sample README.md template you can use as a starting point. You can customize it to fit the specific needs of your project.
 
 ```markdown
